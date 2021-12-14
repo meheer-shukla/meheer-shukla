@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###SKILLS:
-#3776AB : PYTHON
+### SKILLS:
+### #3776AB : PYTHON
