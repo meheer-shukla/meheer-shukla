@@ -9,7 +9,7 @@
 🧰 Skill Set:
 
 ![image](https://user-images.githubusercontent.com/78249584/146226900-c36871e1-1753-47b8-a438-c61d147d9f5f.png)
-![image](https://user-images.githubusercontent.com/78249584/146227102-384f584d-2ad6-4943-b3c2-d48a8ad052cc.png)
+![image](https://user-images.githubusercontent.com/78249584/146227187-de8f850f-a095-422e-b4be-73a8416a4007.png)
 
 
 
