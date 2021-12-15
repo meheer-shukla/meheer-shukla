@@ -1,4 +1,6 @@
-### 👋 Hi Iam Meheer Shukla
+### 👋 Hi Iam Meheer Shukla :
+⚪Graduated from DPS bhopal
+⚪Currently persuing Btech Degree from Manipal University Jaipur
 
 
 
