@@ -1,8 +1,4 @@
-# Meheer Shukla
-
-
-## 🚀 About Me
-Iam Meheer Shukla A Machine Learning and Artificial Intelligence Enthusiast
+![image](https://user-images.githubusercontent.com/78249584/146225204-3e95ffce-47da-4b07-bf97-e69547c6b6b7.png) Hi Iam Meheer Shukla
 
 
 
