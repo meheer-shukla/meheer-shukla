@@ -8,6 +8,9 @@
 
 🧰 Skill Set:
 
+![image](https://user-images.githubusercontent.com/78249584/146226900-c36871e1-1753-47b8-a438-c61d147d9f5f.png)
+
+
 
 
 
