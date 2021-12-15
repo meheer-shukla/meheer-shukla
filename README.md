@@ -2,6 +2,14 @@
 
 ⚪Graduated from DPS bhopal
 
+⚪Persuing A Btech Degree From MUJ
+
+⚪Open For Projects
+
+🧰 Skill Set:
+
+
+
 
 
 
