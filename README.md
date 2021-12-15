@@ -1,14 +1,16 @@
 ### 👋 Hi Iam Meheer Shukla :
 
-⚪Graduated from DPS bhopal
+⚪ Graduated from DPS bhopal
 
-⚪Persuing A Btech Degree From MUJ
+⚪ Persuing A Btech Degree From MUJ
 
-⚪Open For Projects
+⚪ Open For Projects
 
 🧰 Skill Set:
 
 ![image](https://user-images.githubusercontent.com/78249584/146226900-c36871e1-1753-47b8-a438-c61d147d9f5f.png)
+![image](https://user-images.githubusercontent.com/78249584/146227102-384f584d-2ad6-4943-b3c2-d48a8ad052cc.png)
+
 
 
 
