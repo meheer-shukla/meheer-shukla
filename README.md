@@ -15,10 +15,10 @@ Dedicated and detail-oriented Machine Learning and <br>Artificial Intelligence d
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meheer-shukla&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ My daily motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
+### 😂 Take a min and laugh
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
