@@ -17,11 +17,3 @@ Dedicated and detail-oriented Machine Learning and <br>Artificial Intelligence d
 
 ### ✍️ My daily motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Take a min and laugh
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=meheer-shukla&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
